@@ -30,5 +30,5 @@ _EOF_
 		else
 
 input=$1
-		bashfunction()
+		bashfunction
 fi
